@@ -1,0 +1,3 @@
+saludo:hola
+despedida:adios
+pregunta:que
